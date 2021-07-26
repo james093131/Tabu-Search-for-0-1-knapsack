@@ -16,9 +16,6 @@ For example
 
 ```
 
-P07 dataset experimental results
-
-
 
 ### Experimental result of P07 dataset 
 <div align="center">
