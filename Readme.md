@@ -32,4 +32,4 @@ For example
 
 </div>
 <br/>
-The datasets is from https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
+The datasets are from https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
