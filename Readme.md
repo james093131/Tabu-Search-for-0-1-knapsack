@@ -25,7 +25,7 @@ P07 dataset experimental results
 
 <img src="https://github.com/james093131/Tabu-Search-for-0-1-knapsack/blob/master/p07_result.png" alt="Convergence" width="70%"/>
 
- <br/> 
 </div>
+ <br/> 
 
 The datasets is from https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
