@@ -24,5 +24,11 @@ For example
 
 </div>
  <br/> 
+### Experimental result of P08 dataset 
+<div align="center">
 
+<img src="https://github.com/james093131/Tabu-Search-for-0-1-knapsack/blob/master/p08_result.png" alt="Convergence" width="70%"/>
+
+</div>
+<br/>
 The datasets is from https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
