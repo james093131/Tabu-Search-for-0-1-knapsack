@@ -23,7 +23,6 @@ For example
 <img src="https://github.com/james093131/Tabu-Search-for-0-1-knapsack/blob/master/p07_result.png" alt="Convergence" width="70%"/>
 
 </div>
- <br/> 
 
 ### Experimental result of P08 dataset 
 <div align="center">
