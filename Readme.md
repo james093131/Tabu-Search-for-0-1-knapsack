@@ -16,10 +16,16 @@ For example
 
 ```
 
+P07 dataset experimental results
 
+
+
+### Experimental result of P07 dataset 
 <div align="center">
 
 <img src="https://github.com/james093131/Tabu-Search-for-0-1-knapsack/blob/master/p07_result.png" alt="Convergence" width="70%"/>
+
+ <br/> 
 </div>
 
 The datasets is from https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
